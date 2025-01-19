@@ -79,6 +79,6 @@ Make sure the following tools are installed on your system:
     Api: http://localhost:3000/api/deposits/:customerRef/:depositeID
     method: DELETE
 
-## <<<<<<<<<<<<<<<<<<<<<<<<<<<FYI>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Notes
 ## This implementation can work with percentage, equal, savings distribution plans. Additionally, the distribution plan can be configured in the store.
 ## This application does not support partial deposits across two months.
