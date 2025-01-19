@@ -24,7 +24,7 @@ Make sure the following tools are installed on your system:
 
 2. cd DepositPlan
 3. npm install
-4. npm dev
+4. npm run dev
 
 ## Docker (optional)
 1. Build the Docker image
